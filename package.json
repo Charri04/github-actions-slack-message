@@ -31,7 +31,7 @@
     "eslint": "^5.16.0",
     "eslint-plugin-mocha": "^8.0.0",
     "eslint-plugin-sort-requires": "^2.1.0",
-    "mocha": "^8.1.2",
+    "mocha": "^8.4.0",
     "nock": "^13.0.4",
     "nyc": "^15.1.0",
     "rewire": "^5.0.0",
